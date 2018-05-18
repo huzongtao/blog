@@ -12,22 +12,22 @@ paginate_path: "hunterpage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
-    url:          /blog
+    url:          /
     external:     false
   - name:         书籍
-    url:          /blog/book
+    url:          /book
     external:     false
   - name:         旅游
-    url:          /blog/road
+    url:          /road
     external:     false
   - name:         归档
-    url:          /blog/archives
+    url:          /archives
     external:     false
   - name:         标签
-    url:          /blog/tags
+    url:          /tags
     external:     false
   - name:         关于
-    url:          /blog/about
+    url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
 
