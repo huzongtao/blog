@@ -12,13 +12,13 @@ paginate_path: "hunterpage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
-    url:          /
+    url:          /blog
     external:     false
   - name:         书籍
-    url:          /book
+    url:          /blog/book
     external:     false
   - name:         旅游
-    url:          /road
+    url:          /blog/road
     external:     false
   - name:         归档
     url:          /archives
