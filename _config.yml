@@ -15,19 +15,19 @@ links:
     url:          https://huzongtao.github.io/blog
     external:     false
   - name:         书籍
-    url:          /book
+    url:          /blog/book
     external:     false
   - name:         旅游
-    url:          /road
+    url:          /blog/road
     external:     false
   - name:         归档
-    url:          /archives
+    url:          /blog/archives
     external:     false
   - name:         标签
-    url:          /tags
+    url:          /blog/tags
     external:     false
   - name:         关于
-    url:          /about
+    url:          /blog/about
     external:     false
 # ------------ CONFIGURABLE END ------------
 
