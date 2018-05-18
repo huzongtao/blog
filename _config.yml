@@ -12,7 +12,7 @@ paginate_path: "hunterpage:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
-    url:          /
+    url:          https://huzongtao.github.io/blog
     external:     false
   - name:         书籍
     url:          /book
